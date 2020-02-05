@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "esNext",
+    "moduleResolution": "node",
+    "outDir": "types",
+    "declaration": true,
+    "removeComments": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "downlevelIteration": true,
+  },
+  "include": [
+    "src/**/*",
+  ]
+}
